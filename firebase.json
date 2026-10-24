@@ -1,7 +1,7 @@
 {
   "hosting": {
     "site": "rufai-projects-html-css-app",
-    "public": "public",
+    "public": "dist",
     "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
     "rewrites": [
       {
